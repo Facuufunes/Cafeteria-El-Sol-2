@@ -1,6 +1,6 @@
 # ☕ Cafetería El Sol
 
-**Bienvenido a la página oficial de "Cafetería El Sol"**, un proyecto web desarrollado con HTML, CSS y JavaScript. Esta web representa una cafetería ficticia ubicada en Casbas, Buenos Aires, pensada como un rincón de calidez, aroma y momentos únicos.
+**Bienvenido a la página oficial de "Cafetería El Sol"**, un proyecto web desarrollado con HTML y CSS. Esta web representa una cafetería ficticia ubicada en Casbas, Buenos Aires, pensada como un rincón de calidez, aroma y momentos únicos.
 
 ---
 
